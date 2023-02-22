@@ -18,7 +18,7 @@ This application uses Express.js for routing, a MongoDB database, and the Mongoo
 To install, first install the necessary packages by running npm i, then seed the data by running node utils/seed.js and finally spin up the server by running npm start.
 
 ## Usage
-To test the API, use a REST client such as Insomnia or Postman and follow the routes outlined in the routes folder. Check out this [walkthrough video](https://drive.google.com/file/d/1jtIVle4gqkv2R0cMKkKRtBv_M7JsMtN5/view) for reference.
+To test the API, use a REST client such as Insomnia or Postman and follow the routes outlined in the routes folder. Check out this for reference.
 ![Screenshot of application](./public/images/social-network-api.png)
 
 ## Credits
